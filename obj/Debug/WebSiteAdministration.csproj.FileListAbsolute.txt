@@ -1,0 +1,19 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WebSiteAdministration\WebSiteAdministration\bin\Debug\WebSiteAdministration.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WebSiteAdministration\WebSiteAdministration\bin\Debug\WebSiteAdministration.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WebSiteAdministration\WebSiteAdministration\bin\Debug\WebSiteAdministration.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WebSiteAdministration\WebSiteAdministration\obj\Debug\WebSiteAdministration.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WebSiteAdministration\WebSiteAdministration\obj\Debug\WebSiteAdministration.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WebSiteAdministration\WebSiteAdministration\obj\Debug\WebSiteAdministration.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WebSiteAdministration\WebSiteAdministration\obj\Debug\WebSiteAdministration.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WebSiteAdministration\WebSiteAdministration\obj\Debug\WebSiteAdministration.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\WebSiteAdministration\WebSiteAdministration\obj\Debug\WebSiteAdministration.Form1.resources
+E:\Start Server\WebSiteAdministration\WebSiteAdministration\bin\Debug\WebSiteAdministration.exe.config
+E:\Start Server\WebSiteAdministration\WebSiteAdministration\obj\Debug\WebSiteAdministration.exe
+E:\Start Server\WebSiteAdministration\WebSiteAdministration\obj\Debug\WebSiteAdministration.pdb
+E:\Start Server\WebSiteAdministration\WebSiteAdministration\bin\Debug\WebSiteAdministration.exe
+E:\Start Server\WebSiteAdministration\WebSiteAdministration\bin\Debug\WebSiteAdministration.pdb
+E:\Start Server\WebSiteAdministration\WebSiteAdministration\obj\Debug\ResolveAssemblyReference.cache
+E:\Start Server\WebSiteAdministration\WebSiteAdministration\obj\Debug\WebSiteAdministration.Form1.resources
+E:\Start Server\WebSiteAdministration\WebSiteAdministration\obj\Debug\WebSiteAdministration.Properties.Resources.resources
+E:\Start Server\WebSiteAdministration\WebSiteAdministration\obj\Debug\GenerateResource.read.1.tlog
+E:\Start Server\WebSiteAdministration\WebSiteAdministration\obj\Debug\GenerateResource.write.1.tlog
